@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libcliqueLocal.a CMakeFiles/cliqueLocal.dir/cliqueLocal.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libcliqueLocal.a

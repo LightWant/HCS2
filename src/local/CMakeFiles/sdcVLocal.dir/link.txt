@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libsdcVLocal.a CMakeFiles/sdcVLocal.dir/sdcVLocal.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libsdcVLocal.a

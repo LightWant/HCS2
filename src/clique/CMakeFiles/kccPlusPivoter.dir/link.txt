@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libkccPlusPivoter.a CMakeFiles/kccPlusPivoter.dir/kccPlusPivoter.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libkccPlusPivoter.a

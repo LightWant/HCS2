@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libplexCounting.a CMakeFiles/plexCounting.dir/plexCountingV10.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libplexCounting.a

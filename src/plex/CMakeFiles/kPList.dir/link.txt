@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libkPList.a CMakeFiles/kPList.dir/kPList.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libkPList.a

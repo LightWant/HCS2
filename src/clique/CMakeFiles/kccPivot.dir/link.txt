@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libkccPivot.a CMakeFiles/kccPivot.dir/kccPivot.cpp.o CMakeFiles/kccPivot.dir/MCEGO.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libkccPivot.a

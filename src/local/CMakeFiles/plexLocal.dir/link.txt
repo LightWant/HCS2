@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libplexLocal.a CMakeFiles/plexLocal.dir/plexLocal.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libplexLocal.a
