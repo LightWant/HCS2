@@ -1,2 +1,0 @@
-/opt/rh/devtoolset-9/root/usr/bin/ar qc libkCListClique.a CMakeFiles/kCListClique.dir/kCListClique.cpp.o
-/opt/rh/devtoolset-9/root/usr/bin/ranlib libkCListClique.a
